@@ -151,26 +151,6 @@ del consumo de energía activa y reactiva, disminución de las emisiones Scope 2
 bajo metodología GHG Protocol, y reducción del costo operacional de la factura
 eléctrica industrial.
 
----
-
-## Estructura del repositorio
-
-```
-energy-optimization-industrial/
-├── notebook/
-│   └── energy_optimization_industrial.ipynb
-├── exports/
-│   ├── energy_fact_table.csv
-│   └── energy_kpis.csv
-├── figures/
-│   ├── fig1_patrones_consumo.png
-│   ├── fig2_analisis_tipo_carga.png
-│   ├── fig3_factor_potencia.png
-│   ├── fig4_correlacion.png
-│   ├── fig5_importancia_variables.png
-│   └── fig6_oportunidades_mejora.png
-└── README.md
-```
 
 ---
 
